@@ -1,0 +1,25 @@
+{
+  "name": "@vikthortt/js-lorem",
+  "version": "1.0.0",
+  "description": "A lorem ipsum text generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikthortt/js-lorem.git"
+  },
+  "keywords": [
+    "Lorem",
+    "ipsum",
+    "generator",
+    "text"
+  ],
+  "author": "Victor Torres <vikthort.t@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikthortt/js-lorem/issues"
+  },
+  "homepage": "https://github.com/vikthortt/js-lorem#readme"
+}
